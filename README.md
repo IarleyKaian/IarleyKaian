@@ -22,7 +22,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
   </a>
 </p>
+
 ---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - HTML5  
