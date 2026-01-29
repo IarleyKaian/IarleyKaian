@@ -23,7 +23,6 @@
   </a>
 </p>
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 
 - HTML5  
