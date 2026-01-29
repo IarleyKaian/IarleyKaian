@@ -7,8 +7,10 @@ HTML • CSS • JavaScript
 - 🚀 Criando projetos pessoais
 - 🎯 Objetivo: Desenvolvedor Front-End Júnior
 
-<img src="https://github-readme-stats.vercel.app/api?username=IarleyKaian&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarleyKaian&layout=compact&theme=dark"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IarleyKaian&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IarleyKaian&layout=compact&theme=dark)
+
 
 <p>
   <a href="mailto:iarleykaian2018@gmail.com">
