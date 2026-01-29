@@ -22,8 +22,7 @@
 - JavaScript  
 - Git e GitHub  
 - VS Code>
-<div style="display: inline-block;
-">
+<div style="display: inline-block;">
   <img align="center" alt="Iarley-JS" height="40" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
@@ -42,3 +41,4 @@
   <img align="center" alt="Iarley-VSCode" height="40" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
+>
