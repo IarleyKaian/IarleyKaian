@@ -14,11 +14,11 @@
 - Objetivo: Desenvolvedor Front-End Júnior
 
   <p>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/iarley-kaian/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
 
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:iarleykaian2018@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
   </a>
 </p>
