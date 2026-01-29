@@ -21,10 +21,6 @@
 ### Pra conteúdo sobre programação, me segue nas redes abaixo 👇
 
 <div>
-  <a href="https://discord.gg/5DVhGKVf4h" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
   <a href="mailto:iarleykaian2018@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
