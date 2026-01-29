@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/IarleyKaian">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IarleyKaian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IarleyKaian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarleyKaian&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
 </div>
@@ -16,7 +16,7 @@
 <br>
  
 <div> 
-  <a href = "iarleykaian2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="iarleykaian2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iarley-kaian-696547299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div>
