@@ -22,9 +22,3 @@
 - JavaScript  
 - Git e GitHub  
 - VS Code>
-<div class="icons">
-  <img src="html.png">
-  <img src="css.png">
-  <img src="js.png">
-  <img src="git.png">
-</div>
